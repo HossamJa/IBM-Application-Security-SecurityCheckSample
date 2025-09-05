@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the completed practice lab for the "Application Security for Developers and DevOps Professionals" course by IBM on Coursera. The lab focuses on identifying and resolving security vulnerabilities in a sample server-side application, originally forked from the `fgxgm-SecurityCheckSample` repository. As part of this exercise, I performed a vulnerability scan using Snyk, analyzed the severity of issues (Critical, High, Moderate, Low), and implemented fixes, primarily by updating the Node.js version in the Dockerfile from 18.12.1 to 18.17.1. The project demonstrates best practices for securing Dockerized applications and iterative vulnerability management.
+This repository contains the completed practice lab for the "Application Security for Developers and DevOps Professionals" course by IBM on Coursera. The lab focuses on identifying and resolving security vulnerabilities in a sample server-side application, originally forked from the `fgxgm-SecurityCheckSample` repository. As part of this exercise, I performed a vulnerability scan using Snyk, analyzed the severity of issues (Critical, High, Moderate, Low), and implemented fixes, primarily by updating the Node.js version in the Dockerfile. The project demonstrates best practices for securing Dockerized applications and iterative vulnerability management.
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@ This repository contains the completed practice lab for the "Application Securit
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/HossamJa/IBM-Application-Security-SecurityCheckSample
+   git clone https://github.com/HossamJa/IBM-Application-Security-SecurityCheckSample.git
    cd IBM-Application-Security-SecurityCheckSample
    ```
 
