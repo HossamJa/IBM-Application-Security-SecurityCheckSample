@@ -71,7 +71,7 @@ Added the forked repository to Snyk via https://app.snyk.io/login and initiated 
 ### Task 3: View Scan Report
 Reviewed the Snyk scan report, identifying four severity levels of vulnerabilities (Critical, High, Moderate, Low) in the Dockerfile and application code. Focused on detailed error reports and recommended fixes.
 
-![Scan Report Screenshot](screenshots/03-scan-report.png)
+![Scan Report Screenshot](screenshots/03-scan-report.PNG)
 ![Detailed Vulnerabilities Screenshot](screenshots/04-detailed-vulnerabilities.png)
 
 ### Task 4: Fix Vulnerabilities
@@ -82,12 +82,12 @@ Edited the Dockerfile on GitHub, updating the Node.js version from 18.12.1 to 18
 ### Task 5: Verify Vulnerabilities Fix
 Re-ran the Snyk scan to confirm the resolution of Critical, High, and Moderate issues. Iterated on fixes until only Low-priority issues remained.
 
-![Post-Fix Scan Screenshot](screenshots/06-post-fix-scan.png)
+![Post-Fix Scan Screenshot](screenshots/06-post-fix-scan.PNG)
 
 ### Task 6 (Optional): Fix Low-Priority Issues
 Reviewed and optionally addressed Low-priority vulnerabilities based on Snyk recommendations.
 
-![Low Priority Issues Screenshot](screenshots/07-low-priority-issues.png)
+![Low Priority Issues Screenshot](screenshots/07-low-priority-issues.PNG)
 
 ## General Notes
 
